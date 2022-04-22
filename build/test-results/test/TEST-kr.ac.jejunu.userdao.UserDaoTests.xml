@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="kr.ac.jejunu.userdao.UserDaoTests" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-04-22T08:38:53" hostname="gimhuibeom-ui-MacBookPro.local" time="0.675">
+<testsuite name="kr.ac.jejunu.userdao.UserDaoTests" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-04-22T08:47:42" hostname="gimhuibeom-ui-MacBookPro.local" time="0.592">
   <properties/>
-  <testcase name="testGet()" classname="kr.ac.jejunu.userdao.UserDaoTests" time="0.452"/>
-  <testcase name="delete()" classname="kr.ac.jejunu.userdao.UserDaoTests" time="0.098"/>
-  <testcase name="insert()" classname="kr.ac.jejunu.userdao.UserDaoTests" time="0.057"/>
-  <testcase name="update()" classname="kr.ac.jejunu.userdao.UserDaoTests" time="0.066"/>
+  <testcase name="testGet()" classname="kr.ac.jejunu.userdao.UserDaoTests" time="0.381"/>
+  <testcase name="delete()" classname="kr.ac.jejunu.userdao.UserDaoTests" time="0.09"/>
+  <testcase name="insert()" classname="kr.ac.jejunu.userdao.UserDaoTests" time="0.051"/>
+  <testcase name="update()" classname="kr.ac.jejunu.userdao.UserDaoTests" time="0.067"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
